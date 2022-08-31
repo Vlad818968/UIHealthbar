@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 0b935bb3ae0bb444ab11812c890fe1c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -263435933909550481
+    second: SpiteAtlas_0
+  - first:
+      213: 6802823326222951609
+    second: SpiteAtlas_1
+  - first:
+      213: -1531320788828835670
+    second: SpiteAtlas_2
+  - first:
+      213: -91493556538249342
+    second: SpiteAtlas_3
+  - first:
+      213: -685840837620063158
+    second: SpiteAtlas_4
+  - first:
+      213: 3596367006202162747
+    second: SpiteAtlas_5
+  - first:
+      213: -7817995546353440448
+    second: SpiteAtlas_6
+  - first:
+      213: 4063223532027523240
+    second: SpiteAtlas_7
+  - first:
+      213: -8456227970464494341
+    second: SpiteAtlas_8
+  - first:
+      213: -3292032085646395116
+    second: SpiteAtlas_9
+  - first:
+      213: 2592345028413817247
+    second: SpiteAtlas_10
+  - first:
+      213: -3546637817252719973
+    second: SpiteAtlas_11
+  - first:
+      213: 3014359000136478648
+    second: SpiteAtlas_12
+  - first:
+      213: 4829394018483954265
+    second: SpiteAtlas_13
+  - first:
+      213: 8648085625280527784
+    second: SpiteAtlas_14
+  - first:
+      213: 6248647660836376001
+    second: SpiteAtlas_15
+  - first:
+      213: -4609565505419996241
+    second: SpiteAtlas_16
+  - first:
+      213: -9063538751237257262
+    second: SpiteAtlas_17
+  - first:
+      213: 7807596559472296580
+    second: SpiteAtlas_18
+  - first:
+      213: -3946679119547539023
+    second: SpiteAtlas_19
+  - first:
+      213: 1258751601395684974
+    second: SpiteAtlas_20
+  - first:
+      213: -7486386463142079562
+    second: SpiteAtlas_21
+  - first:
+      213: -3952946333146547224
+    second: SpiteAtlas_22
+  - first:
+      213: 8321661357932851370
+    second: SpiteAtlas_23
+  - first:
+      213: 2666009954678642384
+    second: SpiteAtlas_24
+  - first:
+      213: -7256602802130309049
+    second: SpiteAtlas_25
+  - first:
+      213: 3098426612613792380
+    second: SpiteAtlas_26
+  - first:
+      213: -7795023018514427233
+    second: SpiteAtlas_27
+  - first:
+      213: -6893662662158784246
+    second: SpiteAtlas_28
+  - first:
+      213: -4999043748361979409
+    second: SpiteAtlas_29
+  - first:
+      213: -7786678724433992527
+    second: SpiteAtlas_30
+  - first:
+      213: -2331207144957396727
+    second: SpiteAtlas_31
+  - first:
+      213: -3346473549079732168
+    second: SpiteAtlas_32
+  - first:
+      213: 1307625850594552552
+    second: SpiteAtlas_33
+  - first:
+      213: -7480161223820109784
+    second: SpiteAtlas_34
+  - first:
+      213: 7437165385845963260
+    second: SpiteAtlas_35
+  - first:
+      213: 6401887087055053833
+    second: SpiteAtlas_36
+  - first:
+      213: -3290250977242456848
+    second: SpiteAtlas_37
+  - first:
+      213: -3989104537037033674
+    second: SpiteAtlas_38
+  - first:
+      213: -2880568097362793918
+    second: SpiteAtlas_39
+  - first:
+      213: 6661661171220276234
+    second: SpiteAtlas_40
+  - first:
+      213: 8099715201732300478
+    second: SpiteAtlas_41
+  - first:
+      213: -6136884027835273314
+    second: SpiteAtlas_42
+  - first:
+      213: -7280900316146668144
+    second: SpiteAtlas_43
+  - first:
+      213: -7748934814940839734
+    second: SpiteAtlas_44
+  - first:
+      213: -8799194499205038993
+    second: SpiteAtlas_45
+  - first:
+      213: -5853039441730021102
+    second: SpiteAtlas_46
+  - first:
+      213: -7051507601180975561
+    second: SpiteAtlas_47
+  - first:
+      213: -7849809964232128770
+    second: SpiteAtlas_48
+  - first:
+      213: 1143876356775789966
+    second: SpiteAtlas_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpiteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 905
+        width: 79
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7f32f966185cf0800000000000000
+      internalID: -263435933909550481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 905
+        width: 79
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4a245b5cb786e50800000000000000
+      internalID: 6802823326222951609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 903
+        width: 79
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0bfa81bd7afbae0800000000000000
+      internalID: -1531320788828835670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 903
+        width: 79
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fec475813fabef0800000000000000
+      internalID: -91493556538249342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 899
+        width: 79
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44233554676b76f0800000000000000
+      internalID: -685840837620063158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 899
+        width: 79
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e6d9edcbcd8e130800000000000000
+      internalID: 3596367006202162747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 900
+        width: 79
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049640cd876e08390800000000000000
+      internalID: -7817995546353440448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 901
+        width: 79
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a032854648736830800000000000000
+      internalID: 4063223532027523240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 902
+        width: 79
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccdb0c67175aa80800000000000000
+      internalID: -8456227970464494341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 902
+        width: 79
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419bbd1924a5052d0800000000000000
+      internalID: -3292032085646395116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 776
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910bd9811cd9f320800000000000000
+      internalID: 2592345028413817247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 773
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925fa332bfc7cec0800000000000000
+      internalID: -3546637817252719973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 775
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfe2a43a8725d920800000000000000
+      internalID: 3014359000136478648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 774
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e128c544750340800000000000000
+      internalID: 4829394018483954265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 773
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf1028e0c240870800000000000000
+      internalID: 8648085625280527784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 768
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4ab6d0f7a7b650800000000000000
+      internalID: 6248647660836376001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 769
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31c8868988700c0800000000000000
+      internalID: -4609565505419996241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 771
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d70484c687d73280800000000000000
+      internalID: -9063538751237257262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 772
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48288e454b72a5c60800000000000000
+      internalID: 7807596559472296580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 771
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1eaec40449a39c0800000000000000
+      internalID: -3946679119547539023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 769
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d4ad89ebf77110800000000000000
+      internalID: 1258751601395684974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 630
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39f152d230b1890800000000000000
+      internalID: -7486386463142079562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 630
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebfd9ce0405429c0800000000000000
+      internalID: -3952946333146547224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 629
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0beac3aea7c7370800000000000000
+      internalID: 8321661357932851370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 632
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6964cbde19ff420800000000000000
+      internalID: 2666009954678642384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 633
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403be6d23e5b4b90800000000000000
+      internalID: -7256602802130309049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 635
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7246778692dffa20800000000000000
+      internalID: 3098426612613792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 633
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92547d4dd382d390800000000000000
+      internalID: -7795023018514427233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e6ac355ac450a0800000000000000
+      internalID: -6893662662158784246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 514
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe93f3a6234df9ab0800000000000000
+      internalID: -4999043748361979409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 516
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4250aa4f820f390800000000000000
+      internalID: -7786678724433992527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 513
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90936f2f373e5afd0800000000000000
+      internalID: -2331207144957396727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 387
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830acd89900fe81d0800000000000000
+      internalID: -3346473549079732168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 388
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6ec378ce952210800000000000000
+      internalID: 1307625850594552552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 384
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8281d8f9ff0213890800000000000000
+      internalID: -7480161223820109784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 382
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9fd2fb38e163760800000000000000
+      internalID: 7437165385845963260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 378
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a314136218d850800000000000000
+      internalID: 6401887087055053833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 377
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd49f2b2ea652d0800000000000000
+      internalID: -3290250977242456848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 232
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f220a0f8ad3a8c0800000000000000
+      internalID: -3989104537037033674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 234
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2e5dc39a2608d0800000000000000
+      internalID: -2880568097362793918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 237
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e89c4a89f27c50800000000000000
+      internalID: 6661661171220276234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 244
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebec515df08f76070800000000000000
+      internalID: 8099715201732300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 252
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f2c15cd7865daa0800000000000000
+      internalID: -6136884027835273314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 248
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d6c030dbb05fa90800000000000000
+      internalID: -7280900316146668144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 246
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04bc767d0467490800000000000000
+      internalID: -7748934814940839734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 233
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cff4d193bf2e580800000000000000
+      internalID: -8799194499205038993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 224
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d45373a3d5cea0800000000000000
+      internalID: -5853039441730021102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 223
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e14ac7233042e90800000000000000
+      internalID: -7051507601180975561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 220
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef64f977d6fdf0390800000000000000
+      internalID: -7849809964232128770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiteAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 384
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c6986c7ddfdf00800000000000000
+      internalID: 1143876356775789966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
