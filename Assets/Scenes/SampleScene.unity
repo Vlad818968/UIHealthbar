@@ -420,7 +420,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxHealth: 100
-  _healthBar: {fileID: 972719961}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -770,6 +769,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _healthText: {fileID: 1849153619}
   _healthSlider: {fileID: 1231339167}
+  _player: {fileID: 460468598}
 --- !u!114 &972719962
 MonoBehaviour:
   m_ObjectHideFlags: 0
