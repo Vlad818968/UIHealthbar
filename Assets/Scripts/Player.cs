@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
 
     public int CurrentHealth => _currentHealth;
 
-    public Action<int> HealthChanged;
+    public event Action<int> HealthChanged;
 
     public void TakeDamage(int damage)
     {

@@ -7,7 +7,7 @@ public class HealthBar : MonoBehaviour
 {
     [SerializeField] private Text _healthText;
     [SerializeField] private Slider _healthSlider;
-    [SerializeField] Player _player;
+    [SerializeField] private Player _player;
 
     private float _health;
     private float _recoveryRate = 25f;
@@ -50,9 +50,9 @@ public class HealthBar : MonoBehaviour
     {
         while (_health != currentHealth)
         {
-           _health = Mathf.MoveTowards(_health, currentHealth, _recoveryRate * Time.deltaTime);
+            _health = Mathf.MoveTowards(_health, currentHealth, _recoveryRate * Time.deltaTime);
             int health = (int)_health;
-           _healthText.text = health.ToString();
+            _healthText.text = health.ToString();
             _healthSlider.value = health;
             yield return null;
         }
